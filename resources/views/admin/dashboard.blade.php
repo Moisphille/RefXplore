@@ -95,20 +95,6 @@
                 <div id="calendar"></div>
             </div>
 
-            <!-- Form untuk Menambahkan Agenda -->
-            <div class="bg-white p-6 rounded-lg shadow-md mb-10">
-                <h2 class="text-2xl font-semibold mb-6 text-gray-800">Tambahkan Agenda atau Jadwal Kuliah</h2>
-                <form id="agendaForm">
-                    <div class="mb-4">
-                        <input type="text" id="eventTitle" placeholder="Nama Agenda" class="w-full p-4 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500" required>
-                    </div>
-                    <div class="mb-4">
-                        <input type="date" id="eventDate" class="w-full p-4 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500" required>
-                    </div>
-                    <button type="submit" class="bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg transition-all shadow-lg">Tambah Agenda</button>
-                </form>
-            </div>
-
             <!-- Incoming Class & Activities -->
             <div class="bg-white p-6 rounded-lg shadow-md">
                 <h2 class="text-2xl font-semibold mb-6 text-gray-800">Incoming Class & Activities</h2>
